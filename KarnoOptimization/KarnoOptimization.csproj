@@ -56,9 +56,8 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+    <None Include="Pdf\Karnaugh.pdf" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Pdf\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
